@@ -154,5 +154,14 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+## Project Changes
+These are the following change I have made to the file:
+  * I have given spaces and indentions to make the code more readable
+  * I have changed most non-semantic elements to semantic elements that better represent where they are and what data they carry
+  * I have added acessibility options, for those using screenreaders, to every image
+  *I have added a consise title to the page
+  
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
